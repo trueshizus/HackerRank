@@ -1,0 +1,1 @@
+import stockMerchant from "./index";

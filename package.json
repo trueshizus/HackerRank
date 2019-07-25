@@ -1,0 +1,22 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Problems from Hacker Rank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusHerrera/HackerRank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusHerrera/HackerRank/issues"
+  },
+  "homepage": "https://github.com/JesusHerrera/HackerRank#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
